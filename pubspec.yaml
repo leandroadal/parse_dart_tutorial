@@ -1,0 +1,12 @@
+name: parse_dart_tutorial
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+
+  dotenv: ^4.2.0
+  parse_server_sdk: ^8.0.0
